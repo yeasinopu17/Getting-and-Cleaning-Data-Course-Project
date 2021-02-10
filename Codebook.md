@@ -2,7 +2,7 @@
 
 This document is a codebook that provides descriptions of the variables, the data, and all transformations and work that I performed to clean up the data.
 
-##The Data Source
+## The Data Source
 
 Source data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
