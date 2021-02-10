@@ -12,7 +12,7 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 
 The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain.
 
-##The data
+## The data
 
 The dataset includes the following files (some of which are currently too large to upload to this Github repository):
 
@@ -32,7 +32,7 @@ The dataset includes the following files (some of which are currently too large 
 
 'test/y_test.txt': Test labels.
 
-##The following files are available for the train and test data. Their descriptions are equivalent.
+## The following files are available for the train and test data. Their descriptions are equivalent.
 
 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
 
@@ -42,7 +42,7 @@ The dataset includes the following files (some of which are currently too large 
 
 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second.
 
-##Transformation Specifics- 5 functions/requirments and How Source Code run_analysis.R Meets Those Requirements 
+## Transformation Specifics- 5 functions/requirments and How Source Code run_analysis.R Meets Those Requirements 
 
 1. Merges the training and the test sets to create one data set.
 Source code "run_analysis.R" loads both test and train data, processes them, and merges the results into one dataset.
