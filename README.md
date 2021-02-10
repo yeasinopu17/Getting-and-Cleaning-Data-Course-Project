@@ -6,6 +6,7 @@ Coursera Getting and Cleaning Data Course week 4 Project
 The data used in this course project represent data collected from the accelerometers from the Samsung Galaxy S smartphone. 
 
 More information can be found at the data source website:
+
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The data for this project can be downloaded here:
